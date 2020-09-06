@@ -1,2 +1,2 @@
 # Jogo-da-Velha
-Jogo da velha feito no Qt
+Eu fiz isso no Qt com o conhecimento bem raso que eu tenho.
